@@ -1,7 +1,7 @@
 # MONOPOLY PROJECT
 
-Group 8 <br />
-Team members - Diya Goyal, T. Rohan, Ch Geetha Sowmya, B. Ashwitha<br />
+Group Project <br />
+Team members -  Ch Geetha Sowmya, Diya Goyal, T. Rohan, B. Ashwitha<br />
 
 This program allows up to 4 players to play together on the same computer together and functions much like the original Monopoly game. The Game Board, cards and game pieces are customized. Everything was created from scratch using SFML and C++.<br />
 
